@@ -1,6 +1,6 @@
 ---
 title: "主成分分析による次元削減の実例"
-author: "Ryohei Chihara"
+author: "ryohei"
 date: "2023-09-07"
 output: html_document
 ---
